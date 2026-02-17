@@ -20,7 +20,4 @@
         app:dashGap="8dp"
         app:orientation="vertical"/>
 
-
-
-
 </LinearLayout>
