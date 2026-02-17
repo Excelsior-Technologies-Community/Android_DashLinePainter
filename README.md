@@ -52,7 +52,7 @@ dependencyResolutionManagement {
 ### Add Dependency
 ```
 dependencies {
-	        implementation 'com.github.Excelsior-Technologies-Community:Android_CustomDialog:1.0.0'
+	        implementation 'com.github.Excelsior-Technologies-Community:Android_DashLinePainter:1.0.0'
 	}
 ```
 
