@@ -10,14 +10,17 @@
     tools:context=".MainActivity">
 
     <com.ext.dashlinepainter.DashLineView
-        android:layout_width="match_parent"
-        android:layout_height="60dp"
+        android:layout_width="10dp"
+        android:layout_height="250dp"
         android:layout_margin="20dp"
 
-        app:dashColor="@android:color/holo_red_dark"
-        app:dashWidth="4dp"
-        app:dashLength="20dp"
-        app:dashGap="10dp"/>
+        app:dashColor="@android:color/holo_green_dark"
+        app:dashWidth="6dp"
+        app:dashLength="15dp"
+        app:dashGap="8dp"
+        app:orientation="vertical"/>
+
+
 
 
 </LinearLayout>
