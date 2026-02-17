@@ -17,7 +17,7 @@ Perfect for dividers, timelines, coupons, UI separators, and more.
 
 ---
 
-## ✨ Features
+### Features
 
 ✅ Supports **Horizontal Dashed Line**  
 ✅ Supports **Vertical Dashed Line**  
@@ -28,7 +28,7 @@ Perfect for dividers, timelines, coupons, UI separators, and more.
 
 ---
 
-## 📸 Preview
+### Preview
 
 Here are some examples of different dashed line styles:
 
